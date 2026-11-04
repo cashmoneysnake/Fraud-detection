@@ -1,0 +1,17 @@
+# Data and archives (too large for GitHub; download from Kaggle, see README)
+data/
+*.zip
+
+# Environments and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+
+# macOS / iCloud
+.DS_Store
+*.icloud

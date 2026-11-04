@@ -1,0 +1,10 @@
+# Packages used by notebooks/01_eda.ipynb. Versions below are the ones I ran (Python 3.13.7).
+pandas==3.0.1
+numpy==2.4.3
+duckdb==2.0.0
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+xgboost==3.4.1
+matplotlib==3.10.8
+# Jupyter is only needed to open the notebook; version not pinned
+jupyter
