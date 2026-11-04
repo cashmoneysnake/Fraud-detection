@@ -10,7 +10,7 @@
 | **Fraud dollars caught** | **$1,114,753 of $1,133,325 (98.4%)** |
 | **Net savings vs. no model** | **$1,089,758** (4,999 alerts, about 26 per day, at an assumed $5 per alert) |
 | **Evaluation** | Time-based held-out test (2020-06-21 to 2020-12-31), scored once |
-| **Dashboard** | Tableau Public: [View the dashboard]([TABLEAU PUBLIC LINK]) |
+| **Dashboard** | Tableau Public: [View the dashboard](https://public.tableau.com/views/FraudTest/Dashboard1) |
 
 **Question:** which transactions should a fraud team review, and how many alerts is it worth sending to reviewers?
 
